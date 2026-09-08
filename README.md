@@ -69,7 +69,7 @@ npx playwright show-report
 ## 🗺️ Roadmap
 
 - [x] Setup inicial del proyecto con Playwright + TypeScript
-- [ ] Tests de API contra la API pública de wger
+- [x] Tests de API contra la API pública de wger
 - [ ] Tests E2E de interfaz con Page Object Model
 - [ ] CI/CD con GitHub Actions (ejecución automática en cada push/PR)
 - [ ] Reportes visuales (Allure / HTML Reporter)
