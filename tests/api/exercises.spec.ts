@@ -1,7 +1,7 @@
 // tests/api/exercises.spec.ts
 import { test, expect } from '@playwright/test';
 
-const BASE_URL = 'https://wger.de/api/v2';
+const BASE_URL = process.env.BASE_URL;
 
 test.describe('Exercise Categories API', () => {
 
